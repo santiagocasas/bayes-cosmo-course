@@ -1,0 +1,154 @@
+[
+  {
+    "source": "~/pCloudDrive/CasasProjects/SlidesCom/bayes_cosmo_source/papers/Euclid_ Validation of the MontePython forecasting tools_files/WLxGCPh_Pess_cosmo_75dpi_YHfA.png",
+    "file": "figs/day2_validation.png",
+    "sha256": "3fa746bc385b7f19b989913e537a4e3e982a35fbf17493ebe767f178fc9df62b"
+  },
+  {
+    "source": "~/pCloudDrive/CasasProjects/SlidesCom/bayes_cosmo_source/papers/Euclid preparation_files/P_MN_validation_PPye.png",
+    "file": "figs/day2_neutrino.png",
+    "sha256": "afce8ba3154459d76d2d7caaac8eaf0ff97e11061b760eda6ddc6de8c4a41c3b"
+  },
+  {
+    "source": "~/pCloudDrive/CasasProjects/SlidesCom/bayes_cosmo_source/papers/Euclid preparation_files/new_S_w0M_validation_PPye.png",
+    "file": "figs/day2_banana.png",
+    "sha256": "4fd2b27bddeb696a27a62dab9a2aaf4bd89c18a87cf0cb44b96784c49c13bf34"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/euclid_mp_20261014_172204_1248247/photo_camb/CosmicFish_v1.3.1_mp_pessimistic_photo_camb_GCphWL_FM.paramnames",
+    "file": "data/baseline/photo_camb.paramnames",
+    "sha256": "e23e4faa764638ccf6692a4677261f46c41147b2738dfd809787273e896d2f1e"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/euclid_mp_20261014_172204_1248247/photo_camb/CosmicFish_v1.3.1_mp_pessimistic_photo_camb_GCphWL_FM.txt",
+    "file": "data/baseline/photo_camb.txt",
+    "sha256": "3a283c537f7bc58c4d15e5f828df624279c6297d38c41222616d29bd79425b73"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/euclid_mp_20261014_172204_1248247/photo_camb/CosmicFish_v1.3.1_mp_pessimistic_photo_camb_GCphWL_FM_specs.json",
+    "file": "data/baseline/photo_camb_specs.json",
+    "sha256": "1ae15e2e82ac1d7db7ab0b7fd071a82211d8d5d5416b45d2199a0dc612c62da8"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/euclid_mp_20261014_172204_1248247/photo_camb/requested_specs.json",
+    "file": "data/baseline/photo_camb_specs.json",
+    "sha256": "41aa8c640390af83b73322551546b293cb32c7e1fcbc7f41ed66c49c81bd0ab3"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/euclid_mp_20261014_172204_1248247/photo_class/CosmicFish_v1.3.1_mp_pessimistic_photo_class_GCphWL_FM.paramnames",
+    "file": "data/baseline/photo_class.paramnames",
+    "sha256": "e23e4faa764638ccf6692a4677261f46c41147b2738dfd809787273e896d2f1e"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/euclid_mp_20261014_172204_1248247/photo_class/CosmicFish_v1.3.1_mp_pessimistic_photo_class_GCphWL_FM.txt",
+    "file": "data/baseline/photo_class.txt",
+    "sha256": "2ca1ced0be01406876db3bed8d521bc74e0d0bb6961d23848e0216f620703572"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/euclid_mp_20261014_172204_1248247/photo_class/CosmicFish_v1.3.1_mp_pessimistic_photo_class_GCphWL_FM_specs.json",
+    "file": "data/baseline/photo_class_specs.json",
+    "sha256": "b0c21697f7c98eebaa35bd49f17f3c9456cdcdefb59a8c483674000d954e73ef"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/euclid_mp_20261014_172204_1248247/photo_class/requested_specs.json",
+    "file": "data/baseline/photo_class_specs.json",
+    "sha256": "a104f3b75f5bf2793d64aefa460b08aacabd736d8b9907c2703b327835ac5c26"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/euclid_mp_20261014_172204_1248247/spectro_camb/CosmicFish_v1.3.1_mp_pessimistic_spectro_camb_GCsp_FM.txt",
+    "file": "data/baseline/spectro_camb.txt",
+    "sha256": "e63e27f26470355d3f676e7caa393a75a22a1558340f255fa16f83b86e43e90c"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/euclid_mp_20261014_172204_1248247/spectro_camb/CosmicFish_v1.3.1_mp_pessimistic_spectro_camb_GCsp_FM.paramnames",
+    "file": "data/baseline/spectro_camb.paramnames",
+    "sha256": "ebba4a79f01bc48efb1556544763a4dda51708fc73f197a82cfc6534e49fb01b"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/euclid_mp_20261014_172204_1248247/spectro_camb/requested_specs.json",
+    "file": "data/baseline/spectro_camb_specs.json",
+    "sha256": "2c1c041f4b34a28d5c8c89b44fe4293ea0602a22511a5d2d55b14d946be529bb"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/euclid_mp_20261014_172204_1248247/spectro_camb/CosmicFish_v1.3.1_mp_pessimistic_spectro_camb_GCsp_FM_specs.json",
+    "file": "data/baseline/spectro_camb_specs.json",
+    "sha256": "915c6b38f59c6d5beb8ff35e916709c0c8617cabe8431b0687a501a07081cf3e"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/euclid_mp_20261014_172204_1248247/spectro_class/CosmicFish_v1.3.1_mp_pessimistic_spectro_class_GCsp_FM.paramnames",
+    "file": "data/baseline/spectro_class.paramnames",
+    "sha256": "ebba4a79f01bc48efb1556544763a4dda51708fc73f197a82cfc6534e49fb01b"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/euclid_mp_20261014_172204_1248247/spectro_class/CosmicFish_v1.3.1_mp_pessimistic_spectro_class_GCsp_FM.txt",
+    "file": "data/baseline/spectro_class.txt",
+    "sha256": "01d4986d9be1b93e26190668cf17487af852733affd2f47ecd31e5d7d1392f42"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/euclid_mp_20261014_172204_1248247/spectro_class/requested_specs.json",
+    "file": "data/baseline/spectro_class_specs.json",
+    "sha256": "926bd287fc9ac4f4d37f5ccc0fa48dba3494b0e0d2a0255822df3a6f07baec8a"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/euclid_mp_20261014_172204_1248247/spectro_class/CosmicFish_v1.3.1_mp_pessimistic_spectro_class_GCsp_FM_specs.json",
+    "file": "data/baseline/spectro_class_specs.json",
+    "sha256": "70955b6392703469bc0730c0dc315d53eb96ad1484caf9cbbaad9f3652d1166c"
+  },
+  {
+    "source": "~/CosmoProjects/EuclidIST/KPnu_container/Euclid_KP_nu/results/montepython_fisher/photo_pess_mnu+Neff/fisher.mat",
+    "file": "data/neutrino/fisher.mat",
+    "sha256": "c240959bce15668d4305bed5aad98f18e249986ee6ed329508b69a3df3004796"
+  },
+  {
+    "source": "~/CosmoProjects/EuclidIST/KPnu_container/Euclid_KP_nu/results/montepython_fisher/photo_pess_mnu+Neff/fisher.paramnames",
+    "file": "data/neutrino/fisher.paramnames",
+    "sha256": "af3793ea9c9891f36baea180c75b6ab5cb9cf657548caa88aac2426d92c586ab"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/compare_photo_camb_vs_class_cfg_13fddbddf6_20261007_175905/CosmicFish_v1.3.1_compare_photo_20261007_175908_A__GCphWL_FM.paramnames",
+    "file": "data/neutrino/cfp_camb.paramnames",
+    "sha256": "953fb1c232321723e64415297c8a8dbe3b5164d3f7a7b3499d351452cc4cadb2"
+  },
+  {
+    "source": "~/CosmoProjects/cosmicfish_release/cjfp-data/validation/fisher/compare_photo_camb_vs_class_cfg_13fddbddf6_20261007_175905/CosmicFish_v1.3.1_compare_photo_20261007_175908_A__GCphWL_FM.txt",
+    "file": "data/neutrino/cfp_camb.txt",
+    "sha256": "ac46b4c03c8b8cd8fc27535abcffcfb69418fe0005349537a24e3106aeaedc7c"
+  },
+  {
+    "source": "~/CosmoProjects/EuclidIST/KPnu_container/Euclid_KP_nu/results/montepython_mcmc/w0wa_photo_pess/log.param",
+    "file": "data/baseline/montepython_log.param",
+    "sha256": "e3d8a9bbdf0bc2d05875381c0bd412cde45e2e3c3124dda0ff6b7b718a7c2a7e"
+  },
+  {
+    "source": "~/CosmoProjects/EuclidIST/KPnu_container/Euclid_KP_nu/results/montepython_mcmc/w0wa_photo_pess/2022-09-14_100000__1.txt",
+    "operation": "discard first 30% stored rows per chain; retain weights, -logL and seven cosmological columns"
+  },
+  {
+    "source": "~/CosmoProjects/EuclidIST/KPnu_container/Euclid_KP_nu/results/montepython_mcmc/w0wa_photo_pess/2022-09-14_100000__2.txt",
+    "operation": "discard first 30% stored rows per chain; retain weights, -logL and seven cosmological columns"
+  },
+  {
+    "source": "~/CosmoProjects/EuclidIST/KPnu_container/Euclid_KP_nu/results/montepython_mcmc/w0wa_photo_pess/2022-09-14_100000__3.txt",
+    "operation": "discard first 30% stored rows per chain; retain weights, -logL and seven cosmological columns"
+  },
+  {
+    "source": "~/CosmoProjects/EuclidIST/KPnu_container/Euclid_KP_nu/results/montepython_mcmc/w0wa_photo_pess/2022-09-14_100000__4.txt",
+    "operation": "discard first 30% stored rows per chain; retain weights, -logL and seven cosmological columns"
+  },
+  {
+    "source": "~/CosmoProjects/EuclidIST/KPnu_container/Euclid_KP_nu/results/montepython_mcmc/w0wa_photo_pess/2022-09-14_100000__5.txt",
+    "operation": "discard first 30% stored rows per chain; retain weights, -logL and seven cosmological columns"
+  },
+  {
+    "source": "~/CosmoProjects/EuclidIST/KPnu_container/Euclid_KP_nu/results/montepython_mcmc/w0wa_photo_pess/2022-09-14_100000__6.txt",
+    "operation": "discard first 30% stored rows per chain; retain weights, -logL and seven cosmological columns"
+  },
+  {
+    "source": "~/CosmoProjects/EuclidIST/KPnu_container/Euclid_KP_nu/results/montepython_mcmc/w0wa_photo_pess/2022-09-14_100000__7.txt",
+    "operation": "discard first 30% stored rows per chain; retain weights, -logL and seven cosmological columns"
+  },
+  {
+    "source": "~/CosmoProjects/EuclidIST/KPnu_container/Euclid_KP_nu/results/montepython_mcmc/w0wa_photo_pess/2022-09-14_100000__8.txt",
+    "operation": "discard first 30% stored rows per chain; retain weights, -logL and seven cosmological columns"
+  }
+]

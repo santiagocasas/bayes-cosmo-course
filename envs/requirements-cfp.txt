@@ -1,0 +1,7 @@
+# Environment "bayes-cfp": notebooks 01 and 02 (Bayes toy example, cosmicfishpie).
+# Python 3.12 (cosmicfishpie requires 3.10-3.12 and numpy<2).
+# cosmicfishpie is not on PyPI: installed from GitHub, pinned to a commit.
+cosmicfishpie @ git+https://github.com/santiagocasas/cosmicfishpie@012e4b8da27a73a574e0f59fc37a5c3e844b5c21
+jupyterlab
+ipykernel
+ipywidgets

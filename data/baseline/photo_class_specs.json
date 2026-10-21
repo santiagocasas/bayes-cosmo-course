@@ -1,0 +1,54 @@
+{
+  "options": {
+    "accuracy": 1,
+    "feedback": 1,
+    "derivatives": "3PT",
+    "survey_name": "Euclid",
+    "cosmo_model": "w0waCDM",
+    "nonlinear": true,
+    "nonlinear_photo": true,
+    "bfs8terms": false,
+    "vary_bias_str": "lnb",
+    "AP_effect": true,
+    "FoG_switch": true,
+    "GCsp_linear": false,
+    "fix_cosmo_nl_terms": true,
+    "Pshot_nuisance_fiducial": 0.0,
+    "SUPPRESS_WARNINGS": true,
+    "GCsp_Tracer": "matter",
+    "GCph_Tracer": "matter",
+    "ell_sampling": "accuracy",
+    "ShareDeltaNeff": true,
+    "code": "class",
+    "outroot": "mp_pessimistic_photo_class",
+    "results_dir": "/scratch/work/casas/cosmicjellyfishpie_release/cjfp-data/validation/fisher/euclid_mp_20261014_172204_1248247/photo_class/",
+    "specs_dir": "/scratch/work/casas/cosmicjellyfishpie_release/cosmicfishpie/cosmicfishpie/configs/default_survey_specifications/",
+    "survey_name_photo": "Euclid-Photometric-Paper-Pessimistic",
+    "survey_name_spectro": false,
+    "class_config_yaml": "/scratch/work/casas/cosmicjellyfishpie_release/cosmicfishpie/cosmicfishpie/configs/default_boltzmann_yaml_files/class/mpvalidation_hp.yaml"
+  },
+  "fiducialpars": {
+    "Omegam": 0.32,
+    "Omegab": 0.05,
+    "h": 0.67,
+    "ns": 0.96,
+    "sigma8": 0.815584,
+    "mnu": 0.06,
+    "Neff": 3.044,
+    "w0": -1.0,
+    "wa": 0.0
+  },
+  "freepars": {
+    "Omegam": 0.01,
+    "Omegab": 0.01,
+    "h": 0.01,
+    "ns": 0.01,
+    "sigma8": 0.01,
+    "w0": 0.01,
+    "wa": 0.01
+  },
+  "observables": [
+    "GCph",
+    "WL"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "case": "gcsp",
+  "git_revision": "012e4b8da27a73a574e0f59fc37a5c3e844b5c21",
+  "free_params": [
+    "Omegam",
+    "sigma8",
+    "h"
+  ],
+  "sample_nuisances": false,
+  "nuisance_sigma": 5.0,
+  "reference_kind": "conditional",
+  "sampled_parameters": [
+    "Omegam",
+    "sigma8",
+    "h"
+  ],
+  "prior_ranges": {
+    "Omegam": [
+      0.28,
+      0.36
+    ],
+    "sigma8": [
+      0.75,
+      0.87
+    ],
+    "h": [
+      0.6,
+      0.74
+    ]
+  },
+  "n_live": 300,
+  "n_eff": 1000,
+  "workers": 8,
+  "checkpoint": "/tmp/opencode/lecture-nautilus/gcsp/nautilus_gcsp_nlive300_neff1000_dim3.hdf5",
+  "chain": "/tmp/opencode/lecture-nautilus/gcsp/chain_gcsp.csv",
+  "fisher_reference": "/tmp/opencode/lecture-nautilus/gcsp/fisher_reference.txt",
+  "fisher_raw": "/tmp/opencode/lecture-nautilus/gcsp/fisher_raw.txt",
+  "elapsed_seconds": 408.799973487854,
+  "effective_sample_size": 1195.855059306542
+}

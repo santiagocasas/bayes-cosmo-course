@@ -1,0 +1,18 @@
+# mamba env create -f envs/environment-cloe.yml && mamba activate bayes-cloe
+# Notebook 03 (cloelib / cloelike). Separate from bayes-cfp: cloelib needs numpy>2,
+# cosmicfishpie needs numpy<2.
+name: bayes-cloe
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - cloelib==0.11
+      - cloelike==0.3
+      - euclidlib
+      - camb==1.6.5
+      - requests
+      - matplotlib
+      - jupyterlab
+      - ipykernel

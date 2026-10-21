@@ -1,0 +1,14 @@
+# mamba env create -f envs/environment-cfp.yml && mamba activate bayes-cfp
+# Notebooks 01 (toy example) and 02 (cosmicfishpie).
+name: bayes-cfp
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      # cosmicfishpie is not on PyPI; pinned to a commit of the GitHub repository
+      - "cosmicfishpie @ git+https://github.com/santiagocasas/cosmicfishpie@012e4b8da27a73a574e0f59fc37a5c3e844b5c21"
+      - jupyterlab
+      - ipykernel
+      - ipywidgets

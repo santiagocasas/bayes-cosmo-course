@@ -1,0 +1,10 @@
+# Environment "bayes-cloe": notebook 03 (cloelib / cloelike BAO likelihood).
+# Python 3.12 required by cloelike. numpy>2 (so it cannot share an env with cosmicfishpie).
+cloelib==0.11
+cloelike==0.3
+euclidlib
+camb==1.6.5
+requests
+matplotlib
+jupyterlab
+ipykernel
